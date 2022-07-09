@@ -1,0 +1,115 @@
+for i = 1, 100, 1 do
+local A_1 = "RPName"
+local A_2 = "Z"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Za"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Zax"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Zaxx"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Zaxx w"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Zaxx wa"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Zaxx was"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Zaxx was h"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Zaxx was he"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Zaxx was he"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Zaxx was her"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Zaxx was here"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(5)
+local A_1 = "RPName"
+local A_2 = "Zaxx was her"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Zaxx was he"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Zaxx was h"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Zaxx was"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Zaxx wa"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Zaxx w"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Zaxx"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Zax"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Za"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "RPName"
+local A_2 = "Z"
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+
+print("changed"..i)
+end
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Finished changing names",'All')
