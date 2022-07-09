@@ -1,0 +1,393 @@
+for i = 1, 100, 1 do
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Cyan")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Navy blue")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Royal blue")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Deep blue")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Dark blue")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Medium blue")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Bright blue")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Electric blue")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Lapis")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Really blue")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Medium lilac")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Bright bluish green")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Teal")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Toothpaste")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Electric blue")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Sea green")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Medium bluish violet")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Royal purple")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Sea green")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Bright bluish green")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Pastel blue-green")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Tr. Blue")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Light Royal blue")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Pastel violet")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Alder")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Magenta")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Parsley green")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Lime green")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Mint")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Tr. Flu. Blue")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Hot pink")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Really black")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Forest green")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Sea green")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Moss")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Pastel green")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Institutional white")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Pastel orange")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Carnation pink")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Pink")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Eggplant")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Shamrock")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Flame reddish orange")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Really red")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Crimson")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Dark stone grey")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Medium stone grey")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Lily white")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+
+wait(0.1)
+
+local A_1 = "Paint"
+local A_2 = "all"
+local A_3 = BrickColor.new("Really black")
+local Event = game:GetService("ReplicatedStorage").NetworkEvent
+Event:FireServer(A_1, A_2, A_3)
+print("changed"..i)
+end
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Finished changing colors",'All')
